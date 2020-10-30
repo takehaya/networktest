@@ -16,5 +16,5 @@ sudo make && sudo make install
 
 # FRR
 # http://coreemu.github.io/core/services/frr.html
-sudo apt install frr
+sudo apt install -y frr
 
